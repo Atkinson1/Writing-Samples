@@ -1,6 +1,7 @@
 ### Writing-Samples
 
-#### A list of writing sample, purpose of writing, and corresponding description to match files above.
+#### A list of writing sample, purpose of writing, and corresponding description to match files above:
+
 1. "annotated-Final Policy Proposal - Atkinson.docx.pdf" contains proposal for K-12 course, with goal of improving outcomes for black and low-income students.
 2. "Final Paper - Memo to Mayor Garcetti" contains proposal for L.A.P.D. and implementing Seattle model of policing.
 3. "UROP Report" contains complete report of grant-based research on Russian IRA trolls messaging patterns on Twitter around the 2016 presidential election.
